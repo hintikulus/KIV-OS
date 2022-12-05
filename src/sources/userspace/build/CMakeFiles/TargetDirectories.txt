@@ -1,0 +1,4 @@
+/home/hintik/dev/final/src/sources/userspace/build/CMakeFiles/rebuild_cache.dir
+/home/hintik/dev/final/src/sources/userspace/build/CMakeFiles/edit_cache.dir
+/home/hintik/dev/final/src/sources/userspace/build/CMakeFiles/user_task.dir
+/home/hintik/dev/final/src/sources/userspace/build/CMakeFiles/init_task.dir

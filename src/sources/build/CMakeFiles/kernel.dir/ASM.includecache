@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hintik/dev/final/src/sources/kernel/src/interrupts.s
+
+/home/hintik/dev/final/src/sources/kernel/src/memory/mmu.s
+
+/home/hintik/dev/final/src/sources/kernel/src/process/spinlock.s
+
+/home/hintik/dev/final/src/sources/kernel/src/process/switch.s
+
+/home/hintik/dev/final/src/sources/kernel/src/start.s
+

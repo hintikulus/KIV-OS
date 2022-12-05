@@ -1,0 +1,4 @@
+/home/hintik/dev/final/src/sources/build/CMakeFiles/rebuild_cache.dir
+/home/hintik/dev/final/src/sources/build/CMakeFiles/edit_cache.dir
+/home/hintik/dev/final/src/sources/build/CMakeFiles/kernel.dir
+/home/hintik/dev/final/src/sources/build/CMakeFiles/kivrtos_stdlib.dir
